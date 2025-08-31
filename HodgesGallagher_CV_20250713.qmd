@@ -1,0 +1,151 @@
+---
+title: "Leslie Hodges Gallagher, Ph.D."
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+  pdf:
+    title: ""
+    author: "Leslie Hodges Gallagher, Ph.D."
+    pdf-engine: weasyprint
+    css: styles.css
+format-links: [pdf]
+---
+
+:::: print-only
+::: name-header
+Leslie Hodges Gallagher, Ph.D.
+:::
+
+**Email:** hodges.gallagher\@gmail.com [\|]{.pipe} **Phone:** [\|]{.pipe} **Location:** San Francisco Bay Area [\|]{.pipe} **Website:** [LinkedIn](https://linkedin.com/in/leslie-hodges-gallagher) [\|]{.pipe} **ORCID:**[0009-0005-9425-8380](https://orcid.org/0009-0005-9425-8380)
+::::
+
+::: no-print
+**Email:** [hodges.gallagher\@gmail.com](mailto:hodges.gallagher@gmail.com) [\|]{.pipe} **Location:** San Francisco Bay Area [\|]{.pipe} **Website:** [LinkedIn](https://linkedin.com/in/leslie-hodges-gallagher) [\|]{.pipe} **ORCID:** [0009-0005-9425-8380](https://orcid.org/0009-0005-9425-8380)    
+[📄 Download PDF](HodgesGallagher_CV_20250713.pdf){.pdf-button-small}
+:::
+
+## SUMMARY
+
+Molecular cancer biologist with 20+ years experience in preclinical oncology R&D, spanning from startup to post-IPO companies. Skilled in building high-performing teams, designing preclinical strategies to de-risk early drug discovery, and advancing small-molecule programs from discovery to IND. Hands-on leader passionate about working with innovative cross-functional teams at the forefront of next-generation cancer therapeutics.
+
+## EXPERIENCE
+
+### INDEPENDENT CONSULTANT
+
+-   **Black Shadow Therapeutics** [\|]{.pipe} San Francisco, CA [\|]{.pipe} 2023–present
+    -   Advised team on laboratory startup and establishing small molecule screening program
+    -   Key role in preclinical model development to advance lead candidates  
+    -   Co-inventor on provisional patent application
+
+
+### OLEMA PHARMACEUTICALS
+
+**Sr. Vice President, Sr. Principal Scientist, Director of Molecular Biology** [\|]{.pipe} San Francisco [\|]{.pipe} 2007–2023
+
+-   First hire and key contributor to the team that advanced the company from startup through IPO, with a lead candidate to treat hormone-responsive breast cancer now in Phase 3 clinical trials
+-   20+ years supervisory and mentorship experience
+-   Project functional co-lead, coordinating efforts across internal teams, executive leadership, scientific advisory board, and external collaborators
+-   Established and managed multiple laboratories, overseeing equipment procurement and maintenance, sample storage systems, vendor relationships, budget tracking, training, and biosafety compliance
+-   Developed and optimized multiple novel cell-based bioassays to predict preclinical efficacy, supporting the advancement of a small molecule to IND
+-   Established automation program for hit-to-lead HTS, enabling pipeline expansion with a second small molecule oncology target
+-   Co-inventor on 9 patent applications and co-author of 3 peer-reviewed manuscripts
+
+### POSTDOCTORAL FELLOW
+
+**University of California San Francisco, Department of Medicine** [\|]{.pipe} San Francisco, CA [\|]{.pipe} 2002–2007   
+-   Mentor: Peter J. Kushner, Ph.D.   
+-   Research focus on designing novel strategies to enhance the efficacy of endocrine therapies for breast cancer
+
+### GRADUATE RESEARCH ASSISTANT
+
+**University of Texas M.D. Anderson Cancer Center** [\|]{.pipe} Smithville, TX [\|]{.pipe} 1996–2002   
+-   Mentor: Cheryl L. Walker, Ph.D.   
+-   Thesis title: *Critical Determinants of Estrogen Receptor Agonist Activity*
+
+## EDUCATION
+
+#### Ph.D., University of Texas Graduate School of Biomedical Sciences
+
+#### B.A., University of Texas at Austin
+
+## PUBLICATIONS
+
+Ng RA, Barratt S, Parisian A, Palanisamy GS, Phukan S, Sun R, Robello B, Peña G, Sapugay J, Yeghikyan D, Wang C, Satish Kher S, Thangathirupathy S, Millikin R, Yu G, Watanabe T, Zhou F, Rich B, Duncan A, Andersen SE, Chawla R, Zak DR, Heerding DA, Hearn BR, Greene G, Harmon CL, **Hodges-Gallagher L**, Kushner PJ, Fanning SW, Myles DC. "Discovery of Palazestrant (OP-1250), a Potent and Orally Bioavailable Complete Estrogen Receptor Antagonist (CERAN) and Selective Estrogen Receptor Degrader (SERD)." *ACS Omega*, 2025;10(22):22685-22700. [DOI: 10.1021/acsomega.4c11023](https://doi.org/10.1021/acsomega.4c11023)
+
+Parisian AD, Barratt SA, **Hodges-Gallagher L**, Ortega FE, Peña G, Sapugay J, Robello B, Sun R, Kulp D, Palanisamy GS, Myles DC, Kushner PJ, Harmon CL. "Palazestrant (OP-1250), A Complete Estrogen Receptor Antagonist, Inhibits Wild-type and Mutant ER-positive Breast Cancer Models as Monotherapy and in Combination." *Mol Cancer Ther*, 2024;23(3):285–300. [DOI: 10.1158/1535-7163.MCT-23-0351](https://doi.org/10.1158/1535-7163.MCT-23-0351)
+
+(co-first author) Fanning SW, **Hodges-Gallagher L**, Myles DC, Sun R, Fowler CE, Plant IN, Green BD, Harmon CL, Greene GL, Kushner PJ. "Specific stereochemistry of OP-1074 disrupts estrogen receptor alpha helix 12 and confers pure antiestrogenic activity." *Nat Commun*, 2018;9(1):2368. [DOI: 10.1038/s41467-018-04413-3](https://doi.org/10.1038/s41467-018-04413-3)
+
+**Hodges-Gallagher L**, Valentine CD, El Bader S, Kushner PJ. "Estrogen receptor beta increases the efficacy of antiestrogens by effects on apoptosis and cell cycling in breast cancer cells." *Breast Cancer Res Treat*, 2008;109(2):241-50. [DOI: 10.1007/s10549-007-9640-6](https://doi.org/10.1007/s10549-007-9640-6)
+
+**Hodges-Gallagher L**, Valentine CD, Bader SE, Kushner PJ. "Inhibition of histone deacetylase enhances the anti-proliferative action of antiestrogens on breast cancer cells and blocks tamoxifen-induced proliferation of uterine cells." *Breast Cancer Res Treat*, 2007;105(3):297-309. [DOI: 10.1007/s10549-006-9459-6](https://doi.org/10.1007/s10549-006-9459-6)
+
+::: no-print
+<details>
+
+<summary>**View 11 additional publications**</summary>
+
+Zavodovskaya M, Campbell MJ, Maddux BA, Shiry L, Allan G, **Hodges L**, Kushner P, Kerner JA, Youngren JF, Goldfine ID. "Nordihydroguaiaretic acid (NDGA), an inhibitor of the HER2 and IGF-1 receptor tyrosine kinases, blocks the growth of HER2-overexpressing human breast cancer cells." *J Cell Biochem*, 2008;103(2):624-35. [DOI: 10.1002/jcb.21435](https://doi.org/10.1002/jcb.21435)
+
+**Hodges LC**, Cook JD, Lobenhofer EK, Li L, Bennett L, Bushel PR, Aldaz CM, Afshari CA, Walker CL. "Tamoxifen functions as a molecular agonist inducing cell cycle-associated genes in breast cancer cells." *Mol Cancer Res*, 2003;1(4):300-11. [PMID: 12612058](https://pubmed.ncbi.nlm.nih.gov/12612058)
+
+**Hodges LC**, Houston KD, Hunter DS, Fuchs-Young R, Zhang Z, Wineker RC, Walker CL. "Transdominant suppression of estrogen receptor signaling by progesterone receptor ligands in uterine leiomyoma cells." *Mol Cell Endocrinol*, 2002;196(1-2):11-20. [DOI: 10.1016/s0303-7207(02)00230-7](https://doi.org/10.1016/s0303-7207(02)00230-7)
+
+**Hodges LC**, Hunter DS, Bergerson JS, Fuchs-Young R, Walker CL. "An in vivo/in vitro Model to Assess Endocrine Disrupting Activity of Xenoestrogens in Uterine Leiomyoma." *Ann N Y Acad Sci*, 2001;948:100-111. [DOI: 10.1111/j.1749-6632.2001.tb03991.x](https://doi.org/10.1111/j.1749-6632.2001.tb03991.x)
+
+Houston KD, Hunter DS, **Hodges LC**, Walker CL. "Uterine Leiomyomas: Mechanisms of Tumorigenesis." *Toxicol Pathol*, 2001;29(1):100-104. [DOI: 10.1080/019262301301418900](https://doi.org/10.1080/019262301301418900)
+
+Hunter DS, **Hodges LC**, Eagon PK, Vonier PM, Fuchs-Young R, Bergerson JS, Walker CL. "Influence of exogenous estrogen receptor ligands on uterine leiomyoma: evidence from an in vitro/in vivo animal model for uterine fibroids." *Environ Health Perspect*, 2000;108 Suppl 5:829-34. [DOI: 10.1289/ehp.00108s5829](https://doi.org/10.1289/ehp.00108s5829)
+
+**Hodges LC**, Bergerson JS, Hunter DS, Walker CL. "Estrogenic effects of organochlorine pesticides on uterine leiomyoma cells in vitro." *Toxicol Sci*, 2000;54(2):355-64. [DOI: 10.1093/toxsci/54.2.355](https://doi.org/10.1093/toxsci/54.2.355)
+
+Zenklusen JC, **Hodges LC**, LaCava M, Green ED, Conti CJ. "Definitive functional evidence for a tumor suppressor gene on human chromosome 7q31.1 neighboring the Fra7G site." *Oncogene*, 2000;19(13):1729-33. [DOI: 10.1038/sj.onc.1203488](https://doi.org/10.1038/sj.onc.1203488)
+
+Hunter DS, **Hodges LC**, Vonier PM, Fuchs-Young R, Gottardis MM, Walker CL. "Estrogen receptor activation via activation function 2 predicts agonism of xenoestrogens in normal and neoplastic cells of the uterine myometrium." *Cancer Res*, 1999;59(13):3090-9. [PMID: 10397250](https://pubmed.ncbi.nlm.nih.gov/10397250)
+
+Walker C, Ahmed SA, Brown T, Ho SM, **Hodges L**, Lucier G, Russo J, Weigel N, Weise T, Vandenbergh J. "Species, interindividual, and tissue specificity in endocrine signaling." *Environ Health Perspect*, 1999;107 Suppl 4:619-24. [PMID: 10421772](https://pubmed.ncbi.nlm.nih.gov/10421772)
+
+Zenklusen JC, **Hodges LC**, Conti CJ. "Loss of heterozygosity on murine chromosome 6 in two-stage carcinogenesis: evidence for a conserved tumor suppressor gene." *Oncogene*, 1997;14(1):109-14. [DOI: 10.1038/sj.onc.1200806](https://doi.org/10.1038/sj.onc.1200806)
+
+</details>
+:::
+
+::: print-only
+*11 additional publications available on request*
+:::
+
+## PATENTS
+
+**Methods of treating estrogen receptor-associated diseases.** Cyrus L. Harmon, Peter J. Kushner, David C. Myles, **Leslie Hodges Gallagher**. [US Patent Application 2023129598 A1](https://patents.google.com/patent/US20230129598A1), published 4/27/2023; [WIPO #WO2023/283329 A1](https://patents.google.com/patent/WO2023283329A1), published 1/12/2023.
+
+**Regimens of estrogen receptor antagonists.** Cyrus L. Harmon, Peter J. Kushner, David C. Myles, **Leslie Hodges Gallagher**, Richard Sun. [US Patent Application 2022/0265616 A1](https://patents.google.com/patent/US20220265616A1), published 8/25/2022.
+
+**Compositions and methods for regulating immune system activity.** Peter J. Kushner, **Leslie Hodges Gallagher**, Cyrus L. Harmon, David C. Myles, Richard Sun. [US Patent Application 2023159619](https://patents.google.com/patent/US20230159619A1), published 5/25/2023; [WIPO #WO2018/157000 A1](https://patents.google.com/patent/WO2018157000A1), published 8/30/2018.
+
+**Benzopyran compounds, compositions and uses thereof.** Peter J. Kushner, David C. Myles, Cyrus L. Harmon, **Leslie Hodges Gallagher**. [US Patent 9,018,244 B2](https://patents.google.com/patent/US9018244B2), granted 4/28/2015.
+
+**Substituted benzopyran compounds, compositions and uses thereof.** David C. Myles, Peter J. Kushner, Cyrus L. Harmon, **Leslie Hodges Gallagher**. [WIPO #WO2014/203132 A1](https://patents.google.com/patent/WO2014203132A1), published 12/24/2014.
+
+::: no-print
+<details>
+
+<summary>**View 5 additional patents**</summary>
+
+**Combinations of benzopyran compounds, compositions and uses thereof.** Peter J. Kushner, **Leslie Hodges Gallagher**, Cyrus L. Harmon, David C. Myles. [WIPO #WO/2014/203129 A1](https://patents.google.com/patent/WO2014203129A1), published 12/24/2014.
+
+**Anti-estrogenic compounds.** Peter J. Kushner, David C. Myles, Cyrus L. Harmon, **Leslie Hodges Gallagher**. US Patent Application 2017362210 A1, published 12/21/2017 (assigned to Pfizer Inc.).
+
+**Small molecule potentiator of hormonal therapy for breast cancer.** Peter Kushner, Ira Goldfine, **Leslie Hodges-Gallagher**, Cathleen Valentine. US Patent Application 2008085874 A1, published 4/10/2008.
+
+**Undisclosed provisional application.** Peter J. Kushner, **Leslie Hodges Gallagher**, Brian Rich, Jason Duquette, Richard Sun. USPTO application filed 2025.
+
+**Regulated transcription of dominant negative kinase.** Peter J. Kushner, **Leslie Hodges Gallagher**, Cyrus L. Harmon, David C. Myles, Richard Sun. USPTO application filed 2022.
+
+</details>
+:::
+
+::: print-only
+*5 additional patents available on request*
+:::

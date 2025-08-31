@@ -1,0 +1,23 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Leslie Hodges Gallagher CV"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+  pdf:
+    author: "Leslie Hodges Gallagher, Ph.D."
+    pdf-engine: weasyprint
+    css: styles.css
+
+format-links: [pdf]
