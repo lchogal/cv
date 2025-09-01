@@ -23,7 +23,7 @@ Leslie Hodges Gallagher, Ph.D.
 
 ::: no-print
 **Email:** [hodges.gallagher\@gmail.com](mailto:hodges.gallagher@gmail.com) [\|]{.pipe} **Location:** San Francisco Bay Area [\|]{.pipe} **Website:** [LinkedIn](https://linkedin.com/in/leslie-hodges-gallagher) [\|]{.pipe} **ORCID:** [0009-0005-9425-8380](https://orcid.org/0009-0005-9425-8380)    
-[📄 Download PDF](./HodgesGallagher_CV_20250713.pdf){.pdf-button-small}
+[📄 Download PDF](https://github.com/lchogal/cv/raw/main/docs/HodgesGallagher_CV_20250713.pdf){.pdf-button-small}
 :::
 
 ## SUMMARY
