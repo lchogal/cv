@@ -2,6 +2,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.pdf"
 
 website:
   title: "Leslie Hodges Gallagher CV"
