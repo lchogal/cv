@@ -1,8 +1,12 @@
 
+# Quarto CV Configuration - GitHub Pages Optimized
+# IMPORTANT: This configuration is specifically designed for GitHub Pages deployment
+# DO NOT CHANGE output-dir from "." without understanding GitHub Pages implications
+
 project:
-  type: website
-  output-dir: .
-  resources:
+  type: website                # Website type required for GitHub Pages integration
+  output-dir: .               # Output to root directory - CRITICAL for GitHub Pages
+  resources:                  # Include PDF files as resources for download links
     - "*.pdf"
 
 website:
@@ -14,12 +18,12 @@ website:
 
 format:
   html:
-    theme: none
+    theme: none              # Custom styling via CSS
     css: styles.css
-    toc: false
+    toc: false              # No table of contents for CV format
   pdf:
     author: "Leslie Hodges Gallagher, Ph.D."
-    pdf-engine: weasyprint
-    css: styles.css
+    pdf-engine: weasyprint  # Reliable PDF generation
+    css: styles.css         # Apply same styles to PDF
 
-format-links: [pdf]
+format-links: [pdf]         # Enable PDF download button in HTML version
