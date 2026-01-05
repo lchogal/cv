@@ -38,6 +38,7 @@ Molecular cancer biologist with 20+ years experience in preclinical oncology R&D
     -   Advised team on laboratory startup and establishing small molecule screening program
     -   Key role in preclinical model development to advance lead candidates  
     -   Co-inventor on provisional patent application
+    -   Created custom python scripts to graph and visualize data for small molecule screening program
 
 
 ### OLEMA PHARMACEUTICALS
